@@ -1,5 +1,5 @@
 
-FROM labgeo/siose_2005_bench
+FROM labgeo/siose_2005
 MAINTAINER Benito Zaragozi <benizar@gmail.com>
 
 
