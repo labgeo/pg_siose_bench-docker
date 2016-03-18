@@ -18,4 +18,4 @@ RUN git clone https://github.com/labgeo/pg_siose_bench.git &&\
 	rm -Rf pg_siose_bench
 
 # clean packages
-# RUN apt-get remove build-essential checkinstall git unzip postgresql-server-dev-9.5
+RUN apt-get remove build-essential checkinstall git unzip postgresql-server-dev-9.5
